@@ -1,4 +1,4 @@
 ## Hello
 
-[Test](https://lmduarte.github.io/Knowledge-Mining/test)
+[Test](https://lmduarte.github.io/Knowledge-Mining/Lab01)
 
